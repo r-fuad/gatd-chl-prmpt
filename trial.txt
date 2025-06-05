@@ -1,1 +1,1 @@
-Py,golf short BFS,find S→G path in maze.txt,* is wall,output UDLR.Brevity,obvuscate:10
+
